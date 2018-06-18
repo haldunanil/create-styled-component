@@ -1,0 +1,43 @@
+{
+  "name": "create-styled-component",
+  "version": "1.0.0",
+  "description": "A shortcut to create React component directories using functional styled-components",
+  "scripts": {
+    "create-index-js": "bash create-index.js.sh",
+    "create-component-js": "bash create-component.js.sh",
+    "create-component-css": "bash create-component.css.sh",
+    "build": "bash build.sh"
+  },
+  "bin": {
+    "create-styled-component": "./build.sh"
+  },
+  "author": "Haldun Anil <info@haldunanil.com> (https://www.github.com/haldunanil)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haldunanil/create-styled-component.git"
+  },
+  "homepage": "https://github.com/haldunanil/create-styled-component",
+  "bugs": "https://github.com/haldunanil/create-styled-component/issues",
+  "tags": [
+    "react",
+    "reactjs",
+    "create",
+    "component",
+    "cli",
+    "styled-components",
+    "enzyme",
+    "jest"
+  ],
+  "keywords": [
+    "react",
+    "reactjs",
+    "create",
+    "component",
+    "cli",
+    "styled-components",
+    "enzyme",
+    "jest"
+  ],
+  "dependencies": {}
+}
